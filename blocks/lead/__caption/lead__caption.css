@@ -11,12 +11,6 @@
   align-self: start;
 }
 
-@media screen and (min-width: 1024px) {
-  .lead__caption {
-    margin-left: 0;
-  }
-}
-
 @media screen and (max-width: 767px) {
   .lead__caption {
     margin-left: 16px;

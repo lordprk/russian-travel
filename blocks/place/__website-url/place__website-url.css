@@ -1,9 +1,10 @@
 .place__website-url {
-    padding-bottom: 12px;
-    margin: 0;
-    font-size: 12px;
-    line-height: 12px;
-    font-weight: 400;
-    letter-spacing: 0.32px;
-    text-transform: uppercase;
-  }
+  color: #aaaaaa;
+  padding-bottom: 12px;
+  margin: 0;
+  font-size: 12px;
+  line-height: 12px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
