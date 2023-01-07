@@ -27,7 +27,6 @@
 }
 
 .cover__link:hover::before {
-  background: #2a2c2f;
   opacity: 0.8;
 }
 
